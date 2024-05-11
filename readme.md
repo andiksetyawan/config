@@ -1,7 +1,7 @@
 ### Install
 
 ```
-go get -u github.com/andiksetyawan/database
+go get -u github.com/andiksetyawan/config
 ```
 
 ### Example:
